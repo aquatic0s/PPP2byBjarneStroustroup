@@ -1,6 +1,6 @@
 # Programming Principles and Practices Using C++ 
 ## About:
-- Welcome! In this Repository, I share my Try this, drills and exercise solutions of the book: ***Programming Principles and Practices using C++ (Bjarne Stroustroup).***
+- Welcome! In this Repository, I share my solutions to the 'Try this', 'drills' and 'exercises' questions of the book: ***Programming Principles and Practices using C++ (Bjarne Stroustroup).***
 
 - This is the best book for a complete beginner just starting out in programming with C++. It teaches good practices and coding standards in addition to programming. Stroustroup understands common beginner mistakes and bad practices, and teaches assuming the students do not understand anything about programming and computer science, hence it is one of the best resources to start out with in my opinion.
 
