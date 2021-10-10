@@ -13,7 +13,7 @@
 - It is very important to try all the exercises on your own and give time to a problem before referring to the solution! If you do not understand my code at times (I have made comments in places I initially faced trouble), you may take help of other sites such as StackOverflow! However make sure you understand every line of code before you go ahead. Do not rush, or follow a deadline. Learn at your own pace!
 - I will upload the solutions as I progress through the book! So, the repository as of now is incomplete. I might turn to other resources at some point, so I cannot really give any commitments about completing this repository!
 - As of now, my repository is incomplete. A great, completed repository I recommend, in case I haven't uploaded the solutions is: [Chrinkus/stroustrup-ppp](https://github.com/Chrinkus/stroustrup-ppp)!
-- **Update: As of October 2021, I have decided to focus on Python, as it is being taught in my University, as well as I am interested in exploring domains that require the python language. Hence I am now focussing on my Python repository.***
+- **Update: As of October 2021, I have decided to focus on Python, as it is being taught in my University, as well as I am interested in exploring domains that require the python language. Hence I am now focussing on my Python repository.**
 
 ### Try printing this!
 ```
